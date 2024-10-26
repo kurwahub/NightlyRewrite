@@ -1,0 +1,3 @@
+ChangeLog:
+[+] Rewritten the whole program, added some new stuff
+[-] A few commands (cuz I'm lazy) 
